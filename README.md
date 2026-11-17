@@ -36,3 +36,10 @@ QA Engineer interested in test automation, software development, and AI tools.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-374151?style=flat-square&logo=hackthebox&logoColor=white)](https://owasp.org/)
+
+
+### 📫 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vlad_egrv)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vladegrv@gmail.com)
+
